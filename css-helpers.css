@@ -1,4 +1,37 @@
 /*
+    General properties that are not belong to any other group.
+*/
+
+/* Percentage width */
+.pct50 {
+    width: 50%;
+}
+
+.pct100 {
+    width: 100%;
+}
+
+/* Div table display */
+.div-table {
+    display: table;
+}
+
+.div-table-row {
+    display: table-row;
+    vertical-align: top;
+}
+
+.div-table-cell {
+    display: table-cell;
+    vertical-align: top;
+}
+
+/* Cursor */
+.cursor-pointer {
+    cursor: pointer;
+}
+
+/*
     Margin properties
 */
 .m0 {
