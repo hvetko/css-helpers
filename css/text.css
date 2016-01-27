@@ -1,0 +1,34 @@
+/*
+    Text properties
+*/
+.text-strong {
+    font-weight: bold;
+}
+
+.text-strike {
+    text-decoration: line-through;
+}
+
+.text-xs {
+    font-size: 8px;
+}
+
+.text-s {
+    font-size: 10px;
+}
+
+.text-m {
+    font-size: 12px;
+}
+
+.text-l {
+    font-size: 14px;
+}
+
+.text-xl {
+    font-size: 16px;
+}
+
+.text-xxl {
+    font-size: 18px;
+}
