@@ -3,10 +3,21 @@ Common CSS helper classes. Needed often with plain Bootstrap.
 
 ## Usage
 Include css-helpers.min.css in your page.  
-To install with `npm` run
+
+### npm
+To install with `npm` run  
 ```
 npm install hvetko/css-helpers --save
 ```
+or edit `package.json` file by adding `"css-helpers": "github:hvetko/css-helpers"` into `dependencies`. 
+
+### Bower
+To install with Bower run  
+```
+bower install git://github.com/hvetko/css-helpers.git --save
+```
+
+or edit `bower.json` file by adding `"css-helpers": "git://github.com/hvetko/css-helpers.git"` into `dependencies`.
 
 ## CSS Classes
 Current helpers cover _margin_ and _padding_ properties for distances 0, 5, 10, 15, 20, 30, 40, 50, 60, 80, 100, 150 and 200 px.
