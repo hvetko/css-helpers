@@ -591,3 +591,7 @@
 .text-xxl {
     font-size: 18px;
 }
+
+.text-muted a {
+    color: #777;
+}
