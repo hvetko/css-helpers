@@ -4,7 +4,7 @@ Common CSS helper classes. Needed often with plain Bootstrap.
 
 ## Usage
 
-Include css-helpers.min.css in your page.
+Include helper-css.min.css in your page.
 
 ### npm
 
@@ -24,7 +24,7 @@ To install with Bower run
 bower install git://github.com/hvetko/helper-css.git --save
 ```
 
-or edit `bower.json` file by adding `"helper-css": "git://github.com/hvetko/css-helpers.git"` into `dependencies`.
+or edit `bower.json` file by adding `"helper-css": "git://github.com/hvetko/helper-css.git"` into `dependencies`.
 
 ## CSS Classes
 
