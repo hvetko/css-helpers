@@ -1,38 +1,40 @@
 /*
+    Helper CSS
+
     Text properties
 */
 .text-strong {
-    font-weight: bold;
+	font-weight: bold;
 }
 
 .text-strike {
-    text-decoration: line-through;
+	text-decoration: line-through;
 }
 
 .text-xs {
-    font-size: 8px;
+	font-size: 8px;
 }
 
 .text-s {
-    font-size: 10px;
+	font-size: 10px;
 }
 
 .text-m {
-    font-size: 12px;
+	font-size: 12px;
 }
 
 .text-l {
-    font-size: 14px;
+	font-size: 14px;
 }
 
 .text-xl {
-    font-size: 16px;
+	font-size: 16px;
 }
 
 .text-xxl {
-    font-size: 18px;
+	font-size: 18px;
 }
 
 .text-muted a {
-    color: #777;
+	color: #777;
 }

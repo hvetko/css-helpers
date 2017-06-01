@@ -1,25 +1,25 @@
 {
-  "name": "css-helpers",
-  "version": "1.0.0",
-  "description": "Common CSS helper classes",
-  "main": "css-helpers.min.css",
-  "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-concat": "^0.5.1",
-    "grunt-contrib-cssmin": "^0.14.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hvetko/css-helpers.git"
-  },
-  "keywords": [
-    "css",
-    "helper"
-  ],
-  "author": "Hvetko",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/hvetko/css-helpers/issues"
-  },
-  "homepage": "https://github.com/hvetko/css-helpers#readme"
+	"name": "helper-css",
+	"version": "1.1.0",
+	"description": "Common CSS helper classes",
+	"main": "css-helpers.min.css",
+	"devDependencies": {
+		"grunt": "~0.4.1",
+		"grunt-contrib-concat": "^0.5.1",
+		"grunt-contrib-cssmin": "^0.14.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hvetko/css-helpers.git"
+	},
+	"keywords": [
+		"css",
+		"helper"
+	],
+	"author": "Hvetko",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/hvetko/css-helpers/issues"
+	},
+	"homepage": "https://github.com/hvetko/css-helpers#readme"
 }
