@@ -11,10 +11,8 @@ Include helper-css.min.css in your page.
 To install with `npm` run
 
 ```
-npm install hvetko/helper-css --save
+npm install helper-css --save
 ```
-
-or edit `package.json` file by adding `"helper-css": "github:hvetko/helper-css"` into `dependencies`.
 
 ### Bower
 
