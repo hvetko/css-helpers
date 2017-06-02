@@ -8,7 +8,7 @@
     "grunt": "~0.4.1",
     "grunt-contrib-concat": "^0.5.1",
     "grunt-contrib-cssmin": "^0.14.0",
-    "grunt-dev-update": "^2.2.0"
+    "grunt-dev-update": "^2.2.1"
   },
   "homepage": "https://github.com/hvetko/helper-css#readme",
   "keywords": [

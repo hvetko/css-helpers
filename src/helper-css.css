@@ -577,29 +577,26 @@
 }
 
 .text-xs {
-	font-size: 8px;
+	font-size: 70%;
 }
 
 .text-s {
-	font-size: 10px;
+	font-size: 85%;
 }
 
 .text-m {
-	font-size: 12px;
+	font-size: 100%;
 }
 
 .text-l {
-	font-size: 14px;
+	font-size: 115%;
 }
 
 .text-xl {
-	font-size: 16px;
+	font-size: 130%;
 }
 
 .text-xxl {
-	font-size: 18px;
+	font-size: 145%;
 }
 
-.text-muted a {
-	color: #777;
-}

@@ -1,0 +1,21 @@
+{
+  "name": "helper-css",
+  "description": "Common CSS helper classes",
+  "main": "src/helper-css.min.css",
+  "authors": [
+    "Hvetko"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "css",
+    "helper"
+  ],
+  "homepage": "https://github.com/hvetko/helper-css",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
